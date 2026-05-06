@@ -3,5 +3,5 @@
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=lua,nodejs,python,postman&theme=dark" />
   <br/><br/>
-  <a href="https://discord.com/users/229119229511598081"><img src="https://lanyard.cnrad.dev/api/229119229511598081?bg=1a0d01&idleMessage=Same%20idea.&theme=dark" /></a>
+  <a href="https://discord.com/users/229119229511598081"><img src="https://lanyard.cnrad.dev/api/229119229511598081?bg=0e0f12&idleMessage=Same%20idea.&theme=dark" /></a>
 </div>
