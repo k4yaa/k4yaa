@@ -1,6 +1,6 @@
 <div align="left">
   <img src="https://img.shields.io/github/watchers/k4yaa/k4yaa" alt="watchers">
-<div align="Right">
+align="Right">
   <img src="https://img.shields.io/github/followers/k4yaa?color=292e33?style=flat" alt="followers">
 </div>
 <div align="center">
