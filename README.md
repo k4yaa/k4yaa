@@ -11,6 +11,6 @@
   <img src="https://img.shields.io/badge/Windows_11-IoT_LTSC-292e33?style=flat"/>
   <img src="https://img.shields.io/badge/IDE-Visual_Studio_Code-292e33?style=flat"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Success_in_life%20-1%25-292e33?style=flat" />
+  <img src="https://img.shields.io/badge/Success_in_life%20-1%25-292e33?style=social" />
 </div>
 
