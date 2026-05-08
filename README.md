@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.shields.io/github/followers/k4yaa?style=social&logoColor=grey&color=292e33" alt="GitHub Badge">
+  <img src="https://img.shields.io/github/followers/k4yaa?style=social" alt="GitHub Badge">
   <br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="35"/></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="35" />
