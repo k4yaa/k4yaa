@@ -22,7 +22,7 @@
 
   <br/>
 
-rs/229119229511598081">
+  <a href="https://discord.com/users/229119229511598081">
     <img src="https://lanyard.cnrad.dev/api/229119229511598081?bg=0e0f12&idleMessage=Focusing...&theme=dark&hideFinishedPost=true" width="400"/>
   </a>
 
