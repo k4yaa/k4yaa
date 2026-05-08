@@ -10,6 +10,6 @@
   <img src="https://img.shields.io/badge/Windows_11-IoT_LTSC-292e33?style=flat-square"/>
   <img src="https://img.shields.io/badge/IDE-Visual_Studio_Code-292e33?style=flat-square"/>
   <br/>
-  <img src="https://img.shields.io/badge/Success_in_life-5%25-292e33?style=flat-square&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Success_in_life-5%10-292e33?style=flat-square&logo=target&logoColor=white"/>
 </div>
 
