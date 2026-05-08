@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=k4yaa&label=Profile%20views&color=0e75b6&style=flat"/>
   <img src="https://img.shields.io/github/followers/k4yaa?label=Followers&style=social" alt="GitHub Badge">
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/k4yaa">
   <br/><br/>
   <a href="https://www.roblox.com/users/4326649/profile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="35"/></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="35" />
