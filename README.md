@@ -14,7 +14,3 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/Success_in_life%20-1%25-292e33?style=for-the-badge" />
 </div>
-
-
-> [!IMPORTANT]
-> The public Vercel instance
