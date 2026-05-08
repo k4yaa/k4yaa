@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=k4yaa&label=Profile%20views&color=0e75b6&style=flat" alt="k4yaa" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=k4yaa&label=Profile%20views&color=0e75b6&style=flat" alt="k4yaa"/>
   <img src="https://img.shields.io/github/followers/k4yaa?style=social" alt="k4yaa followers">
   <br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="35"/></a>
