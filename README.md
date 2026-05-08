@@ -8,7 +8,7 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/iPhone-15%20Pro-292e33?style=flat-square&logo=apple&logoColor=00000"/>
   <img src="https://img.shields.io/badge/Windows_11-IoT_LTSC-292e33?style=flat-square&logo=windows-11&logoColor=4e9eee"/>
-  <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-292e33?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/5%-of_life_success-292e33?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-292e33?style=flat-square"/>
+  <img src="https://img.shields.io/badge/5%-of%20life%20success-292e33?style=flat-square"/>
 </div>
 
