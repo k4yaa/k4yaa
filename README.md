@@ -8,6 +8,6 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/iPhone-15%20Pro-292e33?style=flat-square&logo=apple&logoColor=00000"/>
   <img src="https://img.shields.io/badge/Windows_11-IoT_LTSC-292e33?style=flat-square&logo=windows-11&logoColor=4e9eee"/>
-  <img src="https://img.shields.io/badge/VS_Code-4e9eee?style=flat-square&logo=visual-studio-code&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-4e9eee?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </div>
 
