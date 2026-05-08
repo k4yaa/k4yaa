@@ -15,5 +15,5 @@
 </div>
 
 
-> [!Succes in Life]
+> [!IMPORTANT]
 > The public Vercel instance
