@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://img.shields.io/github/watchers/k4yaa/k4yaa" alt="watchers"  align="right" >
   <img src="https://img.shields.io/github/followers/k4yaa?color=292e33?style=flat" alt="followers" align="right" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="35"/></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="35" />
