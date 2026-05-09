@@ -1,15 +1,17 @@
 <div align="center">
 
-  <img src="https://img.shields.io/github/followers/k4yaa?color=292e33&style=flat" alt="followers" align="right">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="35"/>
 
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="35"/>
-  </p>
+</div>
 
-  <br/>
+<p align="right">
+  <img src="https://img.shields.io/github/followers/k4yaa?color=292e33&style=flat" alt="followers">
+</p>
+
+<div align="center">
 
   <img src="https://img.shields.io/badge/iPhone-15%20Pro-292e33?style=flat&logo=apple&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Windows_11-IoT_LTSC-292e33?style=flat"/>
