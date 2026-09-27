@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 <!-- Tech stack -->
 <img src="https://skillicons.dev/icons?i=lua,py,nodejs,ts,postman&theme=dark" />
 
@@ -17,8 +15,3 @@
 <img src="https://img.shields.io/badge/Success_in_life-1%25-f85149?style=flat-square&labelColor=161b22"/>
 
 <br/><br/>
-
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,100:1a1b26&height=100&section=footer" />
-
-</div>
