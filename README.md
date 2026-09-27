@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- Gradient banner header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:414868&height=180&section=header&text=k4yaa&fontSize=60&fontColor=c0caf5&animation=fadeIn&fontAlignY=40&desc=Independent%20Developer%20%7C%20Thailand&descAlignY=60&descSize=18" />
 
-<br/>
 
 <!-- Tech stack -->
 <img src="https://skillicons.dev/icons?i=lua,py,nodejs,ts,postman&theme=dark" />
