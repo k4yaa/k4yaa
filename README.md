@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40"/>
-
+  <img src="https://skillicons.dev/icons?i=lua,py,ts,nodejs,postman&theme=dark" />
   <br/><br/>
 
   <img src="https://img.shields.io/badge/iPhone-17_Pro_Max-0d1117?style=flat-square&logo=apple&logoColor=white&labelColor=161b22"/>
